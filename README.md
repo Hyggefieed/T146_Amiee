@@ -49,8 +49,8 @@ A mental wellness platform designed to help individuals heal from trauma, anxiet
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/therapeutic-healing-app.git
-cd therapeutic-healing-app
+git clone (https://github.com/Hyggefieed/Amiee.git)
+cd Amiee
 
 # Install dependencies
 npm install
